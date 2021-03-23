@@ -1,0 +1,1 @@
+# Projeto com objetivo de criação de uma arvore simples de decisão para aprendizado na matéria Ciencia de Dados - UNIFAL 2019, onde o objetivo foi realizar a criação de uma submissao simples no Kaggle para a competição KDD.
